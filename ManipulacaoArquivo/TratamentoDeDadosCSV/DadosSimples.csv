@@ -1,0 +1,60 @@
+,Car Name,Year,Distance,Owner,Fuel,Location,Drive,Type,Price
+0,Maruti S PRESSO,2022,3878,1,PETROL,HR-98,Manual,HatchBack,514000
+1,Hyundai Xcent,2018,32041,1,PETROL,TN-22,Manual,Sedan,674000
+2,Tat+A4:B14a Safari,2021,96339,1,DIESEL,TS-08,Automatic,SUV,1952000
+3,Maruti Vitara Brezza,2019,51718,1,DIESEL,WB-24,Manual,SUV,690000
+4,Tata Tiago,2021,19811,1,PETROL,HR-51,Manual,HatchBack,526000
+5,Maruti Swift,2017,70129,1,PETROL,MH-14,Manual,HatchBack,552000
+6,Hyu i20,2012,103781,1,PETROL,,Manual,HatchBack,278000
+7,Renault Kwid,2021,31945,2,PETROL,UP-32,Automatic,HatchBack,518000
+8,Hyundai Grand i10,2015,39950,1,PETROL,HR-26,Manual,HatchBack,443000
+9,Maruti Swift,2018,56697,1,DIESEL,KA-04,Automatic,HatchBack,710350
+10,Maruti IGNIS,2018,38184,2,CNG,PB-10,Automatic,HatchBack,548000
+11,Maruti S PRESSO,2019,30347,1,PETROL,MH-48,Automatic,HatchBack,481000
+12,Honda Brio,2012,42375,2,PETROL,GJ-05,Manual,HatchBack,312000
+13,Hyundai Elite i20,2019,47231,1,PETROL,GJ-27,Manual,HatchBack,613000
+14,Honda City,2014,111577,1,PETROL,,Manual,Sedan,503000
+15,Maruti Baleno,2018,60042,1,PETROL,MH-47,Manual,HatchBack,614000
+16,Honda WR-V,2017,93518,1,DIESEL,KA-01,Manual,SUV,693000
+17,Honda Amaze,2019,33245,1,PETROL,MH-01,Manual,Sedan,439000
+18,Maruti Alto 800,2016,43717,1,PETROL,GJ-01,Manual,HatchBack,294000
+19,Maruti Celerio,2021,1863,1,PETROL,PB-91,Automatic,HatchBack,716000
+20,Ford Ecosport,2019,50078,1,PETROL,TN-19,Manual,SUV,836000
+21,Maruti Ciaz,2018,63856,1,PETROL,UP-16,Manual,Sedan,794000
+22,Renault Kwid,2018,72337,1,PETROL,KA-19,Manual,HatchBack,324000
+23,Maruti Swift,2021,14567,1,PETROL,WB-02,Manual,HatchBack,678000
+24,Hyundai Elite i20,2018,36778,1,CNG,DL-8C,Manual,HatchBack,587000
+25,Hyundai Elite i20,2015,50419,1,PETROL,DL-12,Manual,HatchBack,474000
+26,Honda City,2010,45257,1,DIESEL,HR-51,Manual,Sedan,608000
+27,Maruti Swift,2016,40368,1,PETROL,HR-26,Manual,HatchBack,477000
+28,Datsun Redi Go,2016,37488,1,PETROL,CH-01,Manual,HatchBack,205000
+29,Tata TIAGO NRG,2019,43253,1,PETROL,KA-53,Manual,HatchBack,574000
+30,Renault Kwid,2022,6587,1,PETROL,KA-02,Manual,HatchBack,572000
+31,Honda Amaze,2019,37566,2,PETROL,TS-13,Manual,Sedan,635000
+32,Hyundai Santro Xing,2011,33952,2,PETROL,KL-22,Manual,HatchBack,169000
+33,Ford FREESTYLE,2018,31679,1,PETROL,KL-09,Manual,SUV,611000
+34,Maruti Swift,2018,98221,2,CNG,HR-10,Manual,HatchBack,558000
+35,Maruti Baleno,2016,45836,1,PETROL,UP-16,Manual,HatchBack,520000
+36,Honda Amaze,2018,75883,1,CNG,MH-05,Manual,Sedan,483000
+37,Maruti Dzire,2021,27480,1,PETROL,GJ-01,Manual,Sedan,707000
+38,Maruti Ciaz,2017,61250,1,DIESEL,TS-07,Manual,Sedan,796000
+39,Maruti Alto,2021,16516,1,CNG,DL-11,Manual,HatchBack,483000
+40,Hyundai NEW SANTRO,2019,57656,1,CNG,MH-46,Manual,HatchBack,482000
+41,Maruti Baleno,2017,33669,2,PETROL,MH-12,Automatic,HatchBack,675000
+42,Maruti Celerio,2018,124206,2,PETROL,,Manual,HatchBack,373000
+43,Maruti Alto 800,2018,36722,1,PETROL,MH-04,Manual,HatchBack,324000
+44,Honda City,2010,87722,1,DIESEL,KA-05,Manual,Sedan,448000
+45,Maruti Celerio,2015,62663,2,PETROL,UP-16,Automatic,HatchBack,377000
+46,Honda WR-V,2017,38022,1,PETROL,MH-04,Manual,SUV,581000
+47,Maruti Swift,2019,28956,1,PETROL,UP-14,Manual,HatchBack,572000
+48,Maruti Swift,2015,119106,2,PETROL,,Manual,HatchBack,490000
+49,Hyundai Grand i10,2017,71686,1,PETROL,HR-16,Manual,HatchBack,417000
+50,Maruti Alto K10,2017,45785,1,PETROL,DL-9C,Manual,HatchBack,347000
+51,Ford Endeavour,2019,94389,1,DIESEL,GJ-02,Manual,Lux_SUV,2192000
+52,Maruti Ciaz,2017,30052,1,PETROL,DL-9C,Manual,Sedan,570000
+53,Honda Amaze,2019,99520,1,PETROL,HR-26,Automatic,Sedan,326000
+54,Maruti Swift Dzire,2013,69372,1,PETROL,MH-48,Automatic,Sedan,708000
+55,Maruti Wagon R 1.0,2014,21799,1,PETROL,MH-04,Manual,HatchBack,351000
+56,Maruti Swift,2014,69045,1,PETROL,UP-14,Manual,HatchBack,401000
+57,Maruti Alto,2020,26533,1,CNG,RJ-02,Manual,HatchBack,406000
+58,Hyundai GRAND I10 NIOS,2020,44937,1,CNG,HR-51,Manual,HatchBack,628000
