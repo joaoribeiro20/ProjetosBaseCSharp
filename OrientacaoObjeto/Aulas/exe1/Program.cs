@@ -9,13 +9,21 @@ namespace exe1
         {
             Aluno obj1 = new Aluno();
             Console.WriteLine(" bem vindo!! \n Voce é Aluno ou Professor ?");
-            
             string leituraI = Console.ReadLine();
+
+            //caso for aluno 
             if(leituraI == "aluno"){
                 Console.WriteLine("Voce ja possui cadastro ou email Educacional?!! \n Sim ou Não");
                 string alunoQ = Console.ReadLine();
+                //caso for aluno ja cadastrado
                 if(alunoQ == "sim"){
                     Console.WriteLine("OLÁ Aluno \n Digite seu email educacional e sua senha (Lembrando que a senha é seu RA) ");
+                    Console.Write("email:");
+                    string emaila = Console.ReadLine();
+                    Console.Write("senha:");
+                    string senhaa = Console.ReadLine();
+                    
+
                 }
                 else{
                     Console.WriteLine("Digite seu email pessoal");
@@ -26,9 +34,13 @@ namespace exe1
                     string cadastroA3 = Console.ReadLine();
                     obj1.cadastro(cadastroA3, cadastroA1, cadastroA2);
                 }
-            }else{
-                Console.WriteLine("OlÁ novamente \n Digite seu cpf e senha para entrar no portal dos professores");
             }
+
+            //caso for professor
+
+        if(leituraI == "professor"){
+
+        }
 
         }
     }

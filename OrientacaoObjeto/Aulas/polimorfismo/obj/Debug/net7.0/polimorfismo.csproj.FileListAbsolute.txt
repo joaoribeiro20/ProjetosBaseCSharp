@@ -1,0 +1,15 @@
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.AssemblyReference.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfoInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.AssemblyInfo.cs
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.exe
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.deps.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.runtimeconfig.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\bin\Debug\net7.0\polimorfismo.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\refint\polimorfismo.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\polimorfismo.genruntimeconfig.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\polimorfismo\obj\Debug\net7.0\ref\polimorfismo.dll

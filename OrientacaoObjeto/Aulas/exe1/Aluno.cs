@@ -15,9 +15,8 @@ using System;
         Console.WriteLine("essa é a outra função cadastro, porem sem parametros");
     }
     public void cadastro(string nome, string email, int tel){
-
-
         Console.WriteLine("cadastro realizado com sucesso");
+        
     } 
 
     
