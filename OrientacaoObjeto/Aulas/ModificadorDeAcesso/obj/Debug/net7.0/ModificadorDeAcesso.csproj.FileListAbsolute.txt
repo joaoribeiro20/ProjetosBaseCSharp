@@ -1,0 +1,15 @@
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.csproj.AssemblyReference.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.AssemblyInfoInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.AssemblyInfo.cs
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.csproj.CoreCompileInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\bin\Debug\net7.0\ModificadorDeAcesso.exe
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\bin\Debug\net7.0\ModificadorDeAcesso.deps.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\bin\Debug\net7.0\ModificadorDeAcesso.runtimeconfig.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\bin\Debug\net7.0\ModificadorDeAcesso.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\bin\Debug\net7.0\ModificadorDeAcesso.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\refint\ModificadorDeAcesso.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ModificadorDeAcesso.genruntimeconfig.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\ModificadorDeAcesso\obj\Debug\net7.0\ref\ModificadorDeAcesso.dll
