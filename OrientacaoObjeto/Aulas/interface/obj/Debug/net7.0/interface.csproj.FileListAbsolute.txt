@@ -1,0 +1,15 @@
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\bin\Debug\net7.0\interface.exe
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\bin\Debug\net7.0\interface.deps.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\bin\Debug\net7.0\interface.runtimeconfig.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\bin\Debug\net7.0\interface.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\bin\Debug\net7.0\interface.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.csproj.AssemblyReference.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.AssemblyInfoInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.AssemblyInfo.cs
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.csproj.CoreCompileInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\refint\interface.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\interface.genruntimeconfig.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\interface\obj\Debug\net7.0\ref\interface.dll

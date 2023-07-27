@@ -1,0 +1,15 @@
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.csproj.AssemblyReference.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.AssemblyInfoInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.AssemblyInfo.cs
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.csproj.CoreCompileInputs.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\bin\Debug\net7.0\This.exe
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\bin\Debug\net7.0\This.deps.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\bin\Debug\net7.0\This.runtimeconfig.json
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\bin\Debug\net7.0\This.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\bin\Debug\net7.0\This.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\refint\This.dll
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.pdb
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\This.genruntimeconfig.cache
+C:\Users\joao.ribeiro\Desktop\ProjetosBaseCSharp\OrientacaoObjeto\Aulas\This\obj\Debug\net7.0\ref\This.dll
