@@ -1,0 +1,15 @@
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.csproj.AssemblyReference.cache
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.AssemblyInfoInputs.cache
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.AssemblyInfo.cs
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.csproj.CoreCompileInputs.cache
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\bin\Debug\net7.0\editorTexto.exe
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\bin\Debug\net7.0\editorTexto.deps.json
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\bin\Debug\net7.0\editorTexto.runtimeconfig.json
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\bin\Debug\net7.0\editorTexto.dll
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\bin\Debug\net7.0\editorTexto.pdb
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.dll
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\refint\editorTexto.dll
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.pdb
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\editorTexto.genruntimeconfig.cache
+C:\Users\jvalv\Desktop\Csharp\balta\editorTexto\obj\Debug\net7.0\ref\editorTexto.dll
